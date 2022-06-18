@@ -15,6 +15,7 @@
 *.so
 *.dylib
 *.dll
+*.mll
 
 # Fortran module files
 *.mod
@@ -30,3 +31,7 @@
 *.exe
 *.out
 *.app
+
+# Build and binaries folder
+build/
+NoiseAnimCurveInterpolator*/
